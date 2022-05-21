@@ -16,13 +16,14 @@ This machine is designed such that the joystick has full control over raising or
 
 This machine is programmed such that the joystick has full control over the rotation of the stepper motor. When the joystick points upwards, the stepper motor will rotate in the counterclockwise direction. Similarly, when the joystick points downwards the stepper motor will rotate in the clockwise direction. Since the pulley is attached to the stepper motor, the rotation of the stepper motor will cause the pulley to rotate in the same direction. Therefore, when the joystick points upwards, the pulley will rotate in the counterclockwise direction. As suggested by Figure 1 when the pulley rotates in the counterclockwise direction, the object will be lifted. Conversely, when the joystick points downwards, the pulley will rotate in the clockwise direction. Again, as suggested by Figure 1, when the pulley rotates in the clockwise direction, the object will be lowered.
 
-<p align="center">
-![Alt text](https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%201.PNG)
-</p>
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%201.PNG">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%201.PNG" width="300" height="400" />
 </p>
+<p align="center">
+Figure 1: Picture showing the direction of motion of the pulley.
+</p>
+
 
 # Materials
 
@@ -47,8 +48,74 @@ This machine is programmed such that the joystick has full control over the rota
 
 
 # Electronic Schematic
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%202.PNG" width="900" height="500" />
+</p>
+<p align="center">
+Figure 2: Electronic schematic of the machine made using Fritzing.
+</p>
 
 # Fusion360 and Real views
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%203.PNG" width="900" height="500" />
+</p>
+<p align="center">
+Figure 3: Fusion360 overall view of the machine
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%204.PNG" width="300" height="400" />
+</p>
+<p align="center">
+Figure 4: Real overall view of the machine
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/figure%205.PNG" width="900" height="500" />
+</p>
+<p align="center">
+Figure 5: Fusion360 top view of the machine
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%206.PNG" width="300" height="400" />
+</p>
+<p align="center">
+Figure 6: Real top view of the machine
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%207.PNG" width="900" height="500" />
+</p>
+<p align="center">
+Figure 7: Fusion360 side view of the machine
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%208.PNG" width="300" height="400" />
+</p>
+<p align="center">
+Figure 8: Real side view of the machine
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%209.PNG" width="900" height="500" />
+</p>
+<p align="center">
+Figure 9: Fusion360 front view of the machine
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%2010.PNG" width="300" height="400" />
+</p>
+<p align="center">
+Figure 10: Real front view of the machine
+</p>
+
+
 
 # Innovative ideas that I was not able to apply in this machine
 
