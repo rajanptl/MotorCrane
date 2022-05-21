@@ -16,6 +16,9 @@ This machine is designed such that the joystick has full control over raising or
 
 This machine is programmed such that the joystick has full control over the rotation of the stepper motor. When the joystick points upwards, the stepper motor will rotate in the counterclockwise direction. Similarly, when the joystick points downwards the stepper motor will rotate in the clockwise direction. Since the pulley is attached to the stepper motor, the rotation of the stepper motor will cause the pulley to rotate in the same direction. Therefore, when the joystick points upwards, the pulley will rotate in the counterclockwise direction. As suggested by Figure 1 when the pulley rotates in the counterclockwise direction, the object will be lifted. Conversely, when the joystick points downwards, the pulley will rotate in the clockwise direction. Again, as suggested by Figure 1, when the pulley rotates in the clockwise direction, the object will be lowered.
 
+<p align="center">
+![Alt text](https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%201.PNG)
+</p>
 
 # Materials
 
