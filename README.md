@@ -4,6 +4,9 @@
 - [How it works](#how-it-works)
 - [Materials](#materials)
 - [Electronic Schematic](#electronic-schematic)
+- [Fusion360 and Real views](#fusion360-and-real-views)
+- [Innovative ideas that I was not able to apply in this machine](#innovative-ideas-that-i-was-not-able-to-apply-in-this-machine)
+- [What I would do differently](#what-i-would-do-differently)
 
 # Description of the machine
 
@@ -18,3 +21,9 @@ This machine is programmed such that the joystick has full control over the rota
 # Materials
 
 # Electronic Schematic
+
+# Fusion360 and Real views
+
+# Innovative ideas that I was not able to apply in this machine
+
+# What I would do differently
