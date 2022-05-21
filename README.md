@@ -62,52 +62,49 @@ Figure 2: Electronic schematic of the machine made using Fritzing.
 <p align="center">
 Figure 3: Fusion360 overall view of the machine
 </p>
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%204.PNG" width="300" height="400" />
 </p>
 <p align="center">
 Figure 4: Real overall view of the machine
 </p>
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/figure%205.PNG" width="900" height="500" />
 </p>
 <p align="center">
 Figure 5: Fusion360 top view of the machine
 </p>
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%206.PNG" width="300" height="400" />
 </p>
 <p align="center">
 Figure 6: Real top view of the machine
 </p>
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%207.PNG" width="900" height="500" />
 </p>
 <p align="center">
 Figure 7: Fusion360 side view of the machine
 </p>
-
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%208.PNG" width="300" height="400" />
 </p>
 <p align="center">
 Figure 8: Real side view of the machine
 </p>
-
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%209.PNG" width="900" height="500" />
 </p>
 <p align="center">
 Figure 9: Fusion360 front view of the machine
 </p>
-
-
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%2010.PNG" width="300" height="400" />
 </p>
