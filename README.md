@@ -20,6 +20,10 @@ This machine is programmed such that the joystick has full control over the rota
 ![Alt text](https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%201.PNG)
 </p>
 
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/rajanptl/MiniMotorLiftCrane/main/Picture/Figure%201.PNG">
+</p>
+
 # Materials
 
 - 1 x Arduino Uno
