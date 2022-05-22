@@ -1,3 +1,4 @@
+Note: The CAD file and the Arduino file can be located in the MiniMotorLiftCrane folder.
 # Table of Content
 - [Table of Content](#table-of-content)
 - [Description of the machine](#description-of-the-machine)
