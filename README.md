@@ -1,4 +1,4 @@
-Note: The CAD file and the Arduino file can be located in the MiniMotorLiftCrane folder.
+
 # Table of Content
 - [Table of Content](#table-of-content)
 - [Description of the machine](#description-of-the-machine)
@@ -8,6 +8,8 @@ Note: The CAD file and the Arduino file can be located in the MiniMotorLiftCrane
 - [Fusion360 and Real views](#fusion360-and-real-views)
 - [Innovative ideas that I was not able to apply in this machine](#innovative-ideas-that-i-was-not-able-to-apply-in-this-machine)
 - [What I would do differently](#what-i-would-do-differently)
+- [What was learned from this experience](#what-was-learned-from-this-experience)
+- [Difficulties experienced](#difficulties-experienced)
 - [Project Organization](#project-organization)
 
 # Description of the machine
@@ -118,11 +120,20 @@ Figure 10: Real front view of the machine
 
 # Innovative ideas that I was not able to apply in this machine
 
-Initially, I was planning on making something that resembles a robotic arm. However, even though it sounds very simple to program, I was not able to figure out how to program my machine so that I would be able to mimic a motor arm lift crane. It was too difficult for someone like me that does not have much experience with Arduinos and coding as well. Hence, I had to simplify my machine. Moreover, after simplifying my machine, I was also planning to add a potentiometer to the machine. With the potentiometer, I was planning to control the speed of the stepper motor. However, once again I was not able to figure out how to program my machine so that the potentiometer can change the speed of the stepper motor all while the stepper motor is controlled by the joystick. Hence, I had to give up on this idea.
+Initially, I was planning on making something that resembles a robotic arm. However, even though it sounds very simple to program, I was not able to figure out how to program my machine so that I would be able to mimic a robotic arm. It was too difficult for someone like me that does not have much experience with Arduinos and coding as well. Hence, I had to simplify my machine. Moreover, after simplifying my machine, I was also planning to add a potentiometer to the machine. With the potentiometer, I was planning to control the speed of the stepper motor. However, once again I was not able to figure out how to program my machine so that the potentiometer can change the speed of the stepper motor all while the stepper motor is controlled by the joystick. Hence, I had to give up on this idea.
 
 # What I would do differently
 
 Although this machine ended up functioning the way I envisioned, one thing I would do if I had the chance to go back in time is to 3D print the pulley. The usage of tape to "increase" the radius of the shaft worked out, but I think having a pulley with a hole at the center with the same radius as the shaft would have been better because the pulley would be more fixed. The problem with wrapping tape around the shaft of the stepper motor is that the pulley would not be completely fixed. So, when the machine tried raising something as heavy as my pencil case or even my phone, it would not go as planned. However, if it were raising something moderately heavy like a sharpener or a roll of electric tape, it would work perfectly fine.
 
-# Project Organization 
+# What was learned from this experience 
 
+Throughout this project, I was able to acquire various skills. Amongst the many skills that this project helped me learn, the most notable ones are the following : breadboarding , CADding , coding Arduinos and using electrical components such as potentiometers and servos , and wiring.   
+
+# Difficulties experienced
+
+Throughout the project, I had a lot of trouble with coding and CADding the system. This is partly due to the fact that I did not have a lot of coding and CADding experience beforehand. To overcome these difficulties, I had to access many ressources such as StackOverflow and Youtube. 
+
+# Project Organization 
+- [`MiniMotorLiftCrane CAD.stl`](MiniMotorLiftCrane/MiniMotorLiftCrane CAD.stl): AutoCAD FUSION 360 file of this project. 
+- [`MiniMotorLiftCrane.ino`](MiniMotorLiftCrane/MiniMotorLiftCrane.ino): Source code of the project. 
