@@ -8,6 +8,7 @@ Note: The CAD file and the Arduino file can be located in the MiniMotorLiftCrane
 - [Fusion360 and Real views](#fusion360-and-real-views)
 - [Innovative ideas that I was not able to apply in this machine](#innovative-ideas-that-i-was-not-able-to-apply-in-this-machine)
 - [What I would do differently](#what-i-would-do-differently)
+- [Project Organization](#project-organization)
 
 # Description of the machine
 
@@ -122,3 +123,6 @@ Initially, I was planning on making something that resembles a motor arm lift cr
 # What I would do differently
 
 Although this machine ended up functioning the way I envisioned, one thing I would do if I had the chance to go back in time is to 3D print the pulley. The usage of tape to "increase" the radius of the shaft worked out, but I think having a pulley with a hole at the center with the same radius as the shaft would have been better because the pulley would be more fixed. The problem with wrapping tape around the shaft of the stepper motor is that the pulley would not be completely fixed. So, when the machine tried raising something as heavy as my pencil case or even my phone, it would not go as planned. However, if it were raising something moderately heavy like a sharpener or a roll of electric tape, it would work perfectly fine.
+
+# Project Organization 
+
