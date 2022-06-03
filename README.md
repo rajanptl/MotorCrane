@@ -128,7 +128,7 @@ Although this machine ended up functioning the way I envisioned, one thing I wou
 
 # What was learned from this experience 
 
-Throughout this project, I was able to acquire various skills. Amongst the many skills that this project helped me learn, the most notable ones are the following : breadboarding , CADding , coding Arduinos and using electrical components such as DC motors and Joystick , and wiring.   
+Throughout this project, I was able to acquire various skills. Amongst the many skills that this project helped me learn, the most notable ones are the following : breadboarding , CADding , coding Arduinos , and wiring.   
 
 # Difficulties experienced
 
