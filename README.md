@@ -135,5 +135,5 @@ Throughout this project, I was able to acquire various skills. Amongst the many 
 Throughout the project, I had a lot of trouble with coding and CADding the system. This is partly due to the fact that I did not have a lot of coding and CADding experience beforehand. To overcome these difficulties, I had to access many ressources such as StackOverflow and Youtube. 
 
 # Project Organization 
-- [`MiniMotorLiftCrane CAD.stl`](MiniMotorLiftCrane/MiniMotorLiftCrane CAD.stl): AutoCAD FUSION 360 file of this project. 
+- `MiniMotorLiftCrane CAD.stl`: AutoCAD FUSION 360 file of this project. 
 - [`MiniMotorLiftCrane.ino`](MiniMotorLiftCrane/MiniMotorLiftCrane.ino): Source code of the project. 
