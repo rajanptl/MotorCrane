@@ -118,7 +118,7 @@ Figure 10: Real front view of the machine
 
 # Innovative ideas that I was not able to apply in this machine
 
-Initially, I was planning on making something that resembles a motor arm lift crane. However, even though it sounds very simple to program, I was not able to figure out how to program my machine so that I would be able to mimic a motor arm lift crane. It was too difficult for someone like me that does not have much experience with Arduinos and coding as well. Hence, I had to simplify my machine. Moreover, after simplifying my machine, I was also planning to add a potentiometer to the machine. With the potentiometer, I was planning to control the speed of the stepper motor. However, once again I was not able to figure out how to program my machine so that the potentiometer can change the speed of the stepper motor all while the stepper motor is controlled by the joystick. Hence, I had to give up on this idea.
+Initially, I was planning on making something that resembles a robotic arm. However, even though it sounds very simple to program, I was not able to figure out how to program my machine so that I would be able to mimic a motor arm lift crane. It was too difficult for someone like me that does not have much experience with Arduinos and coding as well. Hence, I had to simplify my machine. Moreover, after simplifying my machine, I was also planning to add a potentiometer to the machine. With the potentiometer, I was planning to control the speed of the stepper motor. However, once again I was not able to figure out how to program my machine so that the potentiometer can change the speed of the stepper motor all while the stepper motor is controlled by the joystick. Hence, I had to give up on this idea.
 
 # What I would do differently
 
